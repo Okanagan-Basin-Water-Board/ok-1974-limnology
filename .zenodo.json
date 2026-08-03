@@ -1,0 +1,34 @@
+{
+  "title": "Okanagan main valley lakes — 1971 chemical limnology (digitised from the Canada–British Columbia Okanagan Basin Agreement, Technical Supplement V)",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Jatel, Nelson",
+      "affiliation": "Okanagan Basin Water Board"
+    }
+  ],
+  "description": "<p>A verified transcription of Appendix C of the <em>Canada&ndash;British Columbia Okanagan Basin Agreement (1974), Technical Supplement V: The Limnology of the Major Okanagan Basin Lakes</em> (compiled by M.E. Pinsent and J.G. Stockner; Office of the Study Director, Penticton, B.C., April 1974).</p><p><strong>3,991 depth-resolved observations</strong> from six main valley lakes, 21 stations and four 1971 cruises, 1&ndash;220 m: nutrients (NO<sub>3</sub>, TKN, ortho-phosphate, total phosphate, silica) and major anions (bicarbonate, sulphate, chloride, fluoride).</p><p>This is the pre-EMS baseline for the Okanagan basin &mdash; the provincial in-situ record begins in the 1970s, and the tables in every published copy of the report are scanned images with no OCR text layer for tabular content.</p><p><strong>Verification.</strong> Nothing is auto-corrected. The transcription is reconciled against the report&rsquo;s own published summary statistics: Appendix C-3 per-month means reproduce Table 6.4 to 0.0&ndash;0.2% for bicarbonate, with sample counts matching exactly for Skaha and Osoyoos across all eight lake-months; Appendix C-1 spring-overturn total phosphorus reproduces Table 6.3 column B (the same Calgary laboratory that analysed the samples) within 1&ndash;4%.</p><p><strong>Unit warning.</strong> Phosphorus is reported as PO<sub>4</sub> in Appendix C and Table 6.3, but as P in Table 9.2 &mdash; the table that set the basin&rsquo;s loading criteria. The two differ by a factor of 3.066. Both conventions are carried explicitly as <code>value_as_printed</code> and <code>value_as_P</code>.</p><p><strong>Provenance.</strong> The underlying report is a joint publication of the Government of Canada and the Province of British Columbia; rights in it rest with the Crown. This record contains a transcription of its tables and the code used to produce and verify that transcription. Transcription errors are the depositor&rsquo;s, not the 1974 authors&rsquo;; every value retains the literal source cell so any disputed number can be checked against the page image.</p>",
+  "keywords": [
+    "limnology",
+    "Okanagan",
+    "British Columbia",
+    "phosphorus",
+    "chloride",
+    "water quality",
+    "historical baseline",
+    "data rescue",
+    "paleolimnology-adjacent",
+    "eutrophication"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.obwb.ca/library/1974-okanagan-basin-study/",
+      "relation": "isDerivedFrom",
+      "scheme": "url",
+      "resource_type": "publication-report"
+    }
+  ],
+  "notes": "Derived from a Crown publication. See NOTICE.md in the repository: code is MIT-licensed; the transcribed data is offered for reuse with attribution to both the original 1974 report and this transcription.",
+  "access_right": "open"
+}

@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+title: >-
+  Okanagan main valley lakes — 1971 chemical limnology (digitised from the
+  Canada–British Columbia Okanagan Basin Agreement, Technical Supplement V)
+message: >-
+  If you use this dataset, please cite both this transcription and the original
+  1974 report it is derived from.
+type: dataset
+authors:
+  - family-names: Jatel
+    given-names: Nelson
+    affiliation: Okanagan Basin Water Board
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <- add if you have one
+repository-code: >-
+  https://github.com/Okanagan-Basin-Water-Board/ok-1974-limnology
+version: 1.0.0
+date-released: "2026-08-03"
+keywords:
+  - limnology
+  - Okanagan
+  - British Columbia
+  - phosphorus
+  - water quality
+  - historical baseline
+  - data rescue
+abstract: >-
+  A verified transcription of Appendix C of the Canada–British Columbia Okanagan
+  Basin Agreement (1974), Technical Supplement V: The Limnology of the Major
+  Okanagan Basin Lakes. Contains 3,991 depth-resolved observations from six main
+  valley lakes (Okanagan, Kalamalka, Wood, Skaha, Osoyoos, plus Vaseux
+  morphometry), 21 stations and four 1971 cruises: nutrients (NO3, TKN,
+  ortho-phosphate, total phosphate, silica) and major anions (bicarbonate,
+  sulphate, chloride, fluoride), 1–220 m depth. This is the pre-EMS baseline for
+  the Okanagan basin; the provincial in-situ record begins in the 1970s.
+  Phosphorus is reported as PO4 in the source and as P in the report's policy
+  table; both conventions are carried explicitly. Transcription is reconciled
+  against the report's own published summary tables.
+references:
+  - type: report
+    title: >-
+      Technical Supplement V: The Limnology of the Major Okanagan Basin Lakes
+    authors:
+      - family-names: Pinsent
+        given-names: Morley E.
+        affiliation: B.C. Fish and Wildlife Branch
+      - family-names: Stockner
+        given-names: John G.
+        affiliation: Pacific Environment Institute, Environment Canada
+    institution:
+      name: >-
+        Canada–British Columbia Okanagan Basin Agreement, Office of the Study
+        Director
+    location:
+      name: Penticton, British Columbia
+    year: 1974
+    month: 4
